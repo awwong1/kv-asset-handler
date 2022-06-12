@@ -1,4 +1,6 @@
-# @cloudflare/kv-asset-handler
+# @awwong1/kv-asset-handler
+
+> You should probably be using [@cloudflare/kv-asset-handler](https://github.com/cloudflare/kv-asset-handler), this fork includes [pull/315](https://github.com/cloudflare/kv-asset-handler/pull/315) for CI purposes.
 
 [![npm](https://img.shields.io/npm/v/@cloudflare/kv-asset-handler.svg)](https://www.npmjs.com/package/@cloudflare/kv-asset-handler) &nbsp;
 [![Run npm tests](https://github.com/cloudflare/kv-asset-handler/actions/workflows/test.yml/badge.svg)](https://github.com/cloudflare/kv-asset-handler/actions/workflows/test.yml) &nbsp;
